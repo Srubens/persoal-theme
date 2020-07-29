@@ -24,10 +24,6 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 
-.pre{
-	display: none;
-}
-
 .navbar{
 	z-index: 5;
 	background: rgba(255,255,255,0.9);
